@@ -1,0 +1,9 @@
+cd workspace
+
+cd Intro-Java-Homework
+
+cd src
+
+javac SumTwoNumbers.java
+
+java SumTwoNumbers
